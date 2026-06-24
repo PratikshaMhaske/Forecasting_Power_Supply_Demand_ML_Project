@@ -165,3 +165,11 @@ Forecast outputs include:
 - Predicted demand (`yhat`)
 - Lower confidence interval (`yhat_lower`)
 - Upper confidence interval (`yhat_upper`)
+
+Author
+
+Er. Pratiksha Mhaske
+
+LinkedIn: https://www.linkedin.com/in/pratiksha-mhaske
+
+GitHub: https://github.com/PratikshaMhaske
